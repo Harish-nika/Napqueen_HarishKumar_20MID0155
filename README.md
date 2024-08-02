@@ -9,7 +9,11 @@ Napqueen_assignmentround
 
 https://colab.research.google.com/drive/12W5DZIb0Fu4NdKkJB78IT2VIZypgXfvn?usp=sharing
 
-4.PowerBI dashboard link:
+4.PowerBI dashboard link .pbix :
+https://drive.google.com/file/d/1GVPlpJcLHM8iRYyM5OeNWp_cET2l7Ymg/view?usp=sharing
 
-5.github link :
+5.POWERBI Document:
+https://drive.google.com/file/d/1USLSTZ9PBJd2GZiqdQ1ZB_knsFhC7SdG/view?usp=sharing
+
+6..github link :
 https://github.com/Harish-nika/Napqueen_HarishKumar_20MID0155.git
